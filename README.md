@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Nami Eskandarian!
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning discrete structures and computer architecture.
+- 🌱 I’m currently learning computer systems and digital system design.
